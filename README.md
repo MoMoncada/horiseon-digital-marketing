@@ -31,7 +31,7 @@ N/A
 
 ## Deployed Web Page
 
-![Horiseon](assets\images\Horiseon.png)
+![Horiseon](./assets/images/Horiseon.png)
 
 
 ## Credits
