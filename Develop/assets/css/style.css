@@ -32,7 +32,8 @@ p {
 
 
 
-/* Navigation bit*/
+/* Navigation*/
+
     /*specs for links at the top*/
 header nav {
 	padding-top: 15px;
@@ -108,7 +109,7 @@ article img.float-right {
 
 
 
-/*side bar info*/
+/*side bar details*/
 
     /*blue background box*/
 .benefits {

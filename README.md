@@ -1,6 +1,6 @@
-# Code Refactor Starter Code
-# HTML CSS Git Challenge: Code Refactor
-## Horiseon Digital Marketing: Code Refactor
+
+# Horiseon Digital Marketing: Code Refactor
+
 
 ## Description
 
@@ -12,12 +12,16 @@ In this challenge, we have refactor the code to meet web accessibility standarts
 
 The document has been reviwed to ensure the functionality of the web page has not changed, except for the 'Search Engine Optimization' link which was corrected during the refactor process.
 
+--------------------
+
 ## Submission Links
 
 ### Deployed URL:
 
 ### GitHub:
 
+---------------------
+
 ## Deployed Web Page
 
-![Horiseon Digital Marketing](""C:\Users\mauxi\OneDrive\Escritorio\Bootcamp_challenges\MariaMoncada_Challenge01\horiseon-digital-marketing\Develop\assets\images\Horiseon.png"")
+![Horiseon Wep Page](Develop\assets\images\Horiseon.png)
