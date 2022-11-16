@@ -12,16 +12,28 @@ In this challenge, we have refactor the code to meet web accessibility standarts
 
 The document has been reviwed to ensure the functionality of the web page has not changed, except for the 'Search Engine Optimization' link which was corrected during the refactor process.
 
+-------------------
+
+
+## Installation
+
+N/A
+
 --------------------
 
 ## Submission Links
 
 ### Deployed URL:
 
-### GitHub:
+### GitHub: https://github.com/MoMoncada/horiseon-digital-marketing.git
 
 ---------------------
 
-## Deployed Web Page
 
-![Horiseon Wep Page](Develop\assets\images\Horiseon.png)
+## Credits
+Maria Auxiliadora Moncada
+
+------------
+
+## License
+N/A
