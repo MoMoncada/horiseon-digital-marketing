@@ -23,7 +23,7 @@ N/A
 
 ## Submission Links
 
-### Deployed URL:
+### Deployed URL: https://momoncada.github.io/horiseon-digital-marketing/
 
 ### GitHub: https://github.com/MoMoncada/horiseon-digital-marketing.git
 
@@ -31,7 +31,7 @@ N/A
 
 
 ## Credits
-Maria Auxiliadora Moncada
+Maria Auxiliadora Moncada 
 
 ------------
 
